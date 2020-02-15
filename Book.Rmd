@@ -1,9 +1,7 @@
 ---
-title: ""
+title: "Book"
 date: "`r Sys.Date()`"
-output:
-  rmdformats::readthedown:
-    highlight: kate
+output: html_document
 ---
 
 
